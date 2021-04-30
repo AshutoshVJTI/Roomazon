@@ -60,7 +60,7 @@ If you are using Ryzen processor then you need to give permissions to the system
 
 -------------------------------- Firebase Access --------------------------------
 
-	Step 1: Login using following credentials (Email : Password: )
+	Step 1: Login using following credentials (Email : testroomazon@gmail.com Password: roomzaon@test )
 	Step 2: Now go to 'https://console.firebase.google.com/'
 	Step 3: Select 'Roomazon'. (Accept Firebase Terms and Conditions if any)
 	Step 4: In the left bar you can access 'Authentication' (for user login info), 'Firestore Database' (for data obtained from users about house and user details) and 'Storage' for all the images uploaded.
