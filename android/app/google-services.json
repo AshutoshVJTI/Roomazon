@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "893652781686",
+    "project_id": "roomazon-f845b",
+    "storage_bucket": "roomazon-f845b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893652781686:android:1c87e3d8b932ef213f2d57",
+        "android_client_info": {
+          "package_name": "com.ashutoshvjti.roomazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893652781686-lbsjobsbclnmpc830v8rt10c4ofakbqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashutoshvjti.roomazon",
+            "certificate_hash": "0915f89a2e708f3104ecd0bfeba8481ab72b2b82"
+          }
+        },
+        {
+          "client_id": "893652781686-v33rs8fl0ebrnitgkfoles6pce07q93r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc6ksVDn85n-a0tYk2EWZ4q5timTcId7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893652781686-v33rs8fl0ebrnitgkfoles6pce07q93r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
