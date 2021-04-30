@@ -69,5 +69,5 @@ If you are using Ryzen processor then you need to give permissions to the system
 
 When you use our services, you’re trusting us with your Information. We understand this is a Big Responsibility and work hard to Protect your Information and put you in control.
 
-This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
+This Privacy Policy is meant to help you understand what Information we collect, why we collect it, and how you can update, manage, export, and delete your information.
 	
