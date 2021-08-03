@@ -58,13 +58,6 @@ If you are using Ryzen processor then you need to give permissions to the system
 		In the displayed list select Hyper-V checkbox == Make sure the subfolders are all selected. When prompted to restart, restart the PC.
 		After restart and update instalation screen you are back in Windows and you should be able to run the Emulator.
 
--------------------------------- Firebase Access --------------------------------
-
-	Step 1: Login using following credentials (Email : testroomazon@gmail.com Password: roomzaon@test )
-	Step 2: Now go to 'https://console.firebase.google.com/'
-	Step 3: Select 'Roomazon'. (Accept Firebase Terms and Conditions if any)
-	Step 4: In the left bar you can access 'Authentication' (for user login info), 'Firestore Database' (for data obtained from users about house and user details) and 'Storage' for all the images uploaded.
-
 ---------------------------- Privacy policy -------------------------------------
 
 When you use our services, you’re trusting us with your Information. We understand this is a Big Responsibility and work hard to Protect your Information and put you in control.
